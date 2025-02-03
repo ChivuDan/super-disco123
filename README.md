@@ -22,16 +22,10 @@ mvn clean install
 3. Configure the Test Properties
 Edit the config.properties file in src/main/resources/ to update test credentials:
 
-"# Base URL for the sign-up page 
 base_url=https://circula-qa-challenge.vercel.app/users/sign_up
-
-# Test user credentials
 test_email=test@example.com
 test_password=Test@1234
-
-# Timeout settings (in seconds)
 timeout=10
-"
 
 4. Run Tests
 a.Run All Tests
