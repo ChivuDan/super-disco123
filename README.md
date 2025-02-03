@@ -1,4 +1,4 @@
-##Circula QA Automation Project
+# Circula QA Automation Project
 This repository contains an automated UI test suite for the Circula application using Selenium WebDriver, JUnit 5, and WebDriverManager.
 
 Prerequisites
