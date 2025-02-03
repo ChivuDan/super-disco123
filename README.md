@@ -31,10 +31,11 @@ test_password=Test@1234
 timeout=10
 
 4. Run Tests
-a.Run All Tests
+
+a.Run All Tests:
 mvn test
 
-b.Run a Specific Test
+b.Run a Specific Test:
 mvn -Dtest=SignUpTest test
 
 5. View Test Reports
